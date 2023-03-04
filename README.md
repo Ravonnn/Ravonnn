@@ -17,8 +17,8 @@
   <h3 align="center">Currently Learning/Wanting to Learn</h3>
   
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vulkan-informational?style=flat&logo=vulkan&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=2bbc8a)
   
   ## &#x1f4c8; GitHub Stats
