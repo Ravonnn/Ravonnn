@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Hi!</h3>
-  My name is Timo and was a Software Deloper in the web side of coding. After doing that I fell very interested in Law, but after 1 year I unfortinatly didn't see me going that way, because the feeling of being a developer was always in my head. Now I'm programming for a better future in the Game Development scene.
+  
 <br>
   I love coding and creating things and learning new languages and frameworks.
   
