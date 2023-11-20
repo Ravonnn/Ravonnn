@@ -31,4 +31,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ravonnn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&rank_icon=github&include_all_commits=true" alt="Ravonnn's GitHub Stats" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ravonnn)](https://github.com/Ravonnn/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ravonnn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Ravonnn/github-readme-stats)
