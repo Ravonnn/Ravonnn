@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
 
